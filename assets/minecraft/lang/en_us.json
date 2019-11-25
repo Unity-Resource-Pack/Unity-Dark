@@ -1082,7 +1082,7 @@
   "block.minecraft.nether_wart": "Nether Wart",
   "block.minecraft.cauldron": "Cauldron",
   "block.minecraft.enchanting_table": "Enchanting Table",
-  "block.minecraft.anvil": "Anvil",
+  "block.minecraft.anvil": "§7Anvil",
   "block.minecraft.chipped_anvil": "Chipped Anvil",
   "block.minecraft.damaged_anvil": "Damaged Anvil",
   "block.minecraft.end_stone": "End Stone",
