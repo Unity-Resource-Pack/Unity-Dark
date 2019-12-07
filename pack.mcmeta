@@ -4,6 +4,7 @@
     "description": "Visual Diversion\n§r§bWelcome to the dark side."
   },
   "refinedstorage": {
-    "primary_color": 11184810
+    "primary_color": 11184810,
+	"secondary_color": 11184810
   }
 }
