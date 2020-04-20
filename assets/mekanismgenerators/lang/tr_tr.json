@@ -1,0 +1,13 @@
+{
+  "block.mekanismgenerators.advanced_solar_generator": "§7Geli\u015fmi\u015f Solar Jenerat\u00f6r",
+  "block.mekanismgenerators.bio_generator": "§7Biyo-Jenerat\u00f6r",
+  "block.mekanismgenerators.gas_burning_generator": "§7Gaz Jenerat\u00f6r\u00fc",
+  "block.mekanismgenerators.heat_generator": "§7Is\u0131 Jenerat\u00f6r\u00fc",
+  "block.mekanismgenerators.reactor_controller": "§7Reakt\u00f6r Kontrol\u00f6r\u00fc",
+  "block.mekanismgenerators.solar_generator": "§7Solar Jenerat\u00f6r",
+  "block.mekanismgenerators.turbine_casing": "§7T\u00fcrbin G\u00f6vdesi",
+  "block.mekanismgenerators.turbine_rotor": "§7T\u00fcrbin Pervanesi",
+  "block.mekanismgenerators.turbine_valve": "§7T\u00fcrbine Kapa\u011f\u0131",
+  "block.mekanismgenerators.turbine_vent": "§7T\u00fcrbin Havaland\u0131rmas\u0131",
+  "block.mekanismgenerators.wind_generator": "§7R\u00fczgar Jenerat\u00f6r\u00fc"
+}

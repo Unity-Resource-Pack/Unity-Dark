@@ -1,0 +1,13 @@
+{
+  "block.mekanismgenerators.advanced_solar_generator": "§7Avanceret Solgenerator",
+  "block.mekanismgenerators.bio_generator": "§7Bio-generator",
+  "block.mekanismgenerators.gas_burning_generator": "§7Gasbr\u00e6ndende Generator",
+  "block.mekanismgenerators.heat_generator": "§7Varmegenerator",
+  "block.mekanismgenerators.reactor_controller": "§7Reaktor-controller",
+  "block.mekanismgenerators.solar_generator": "§7Solgenerator",
+  "block.mekanismgenerators.turbine_casing": "§7Turbinekabinet",
+  "block.mekanismgenerators.turbine_rotor": "§7Turbinerotor",
+  "block.mekanismgenerators.turbine_valve": "§7Turbineventil",
+  "block.mekanismgenerators.turbine_vent": "§7Turbineventilator",
+  "block.mekanismgenerators.wind_generator": "§7Vindgenerator"
+}

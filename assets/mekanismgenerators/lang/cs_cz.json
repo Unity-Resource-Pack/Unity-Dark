@@ -1,0 +1,13 @@
+{
+  "block.mekanismgenerators.advanced_solar_generator": "§7Pokro\u010dil\u00fd Sol\u00e1rn\u00ed Gener\u00e1tor",
+  "block.mekanismgenerators.bio_generator": "§7Bio-Gener\u00e1tor",
+  "block.mekanismgenerators.gas_burning_generator": "§7Plyno-Spalovac\u00ed Gener\u00e1tor",
+  "block.mekanismgenerators.heat_generator": "§7Tepeln\u00fd Gener\u00e1tor",
+  "block.mekanismgenerators.reactor_controller": "§7Kontroler Reaktoru",
+  "block.mekanismgenerators.solar_generator": "§7Sol\u00e1rn\u00ed Gener\u00e1tor",
+  "block.mekanismgenerators.turbine_casing": "§7Pl\u00e1\u0161\u0165 Turb\u00edny",
+  "block.mekanismgenerators.turbine_rotor": "§7Turb\u00ednov\u00fd Rotor",
+  "block.mekanismgenerators.turbine_valve": "§7Turb\u00ednov\u00fd Ventil",
+  "block.mekanismgenerators.turbine_vent": "§7Turb\u00ednov\u00fd Pr\u016fduch",
+  "block.mekanismgenerators.wind_generator": "§7V\u011btrn\u00fd Gener\u00e1tor"
+}

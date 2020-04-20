@@ -1,0 +1,13 @@
+{
+  "block.mekanismgenerators.advanced_solar_generator": "§7Generador solar avanzado",
+  "block.mekanismgenerators.bio_generator": "§7Bio-Generador",
+  "block.mekanismgenerators.gas_burning_generator": "§7Generador de gas",
+  "block.mekanismgenerators.heat_generator": "§7Generador de calor",
+  "block.mekanismgenerators.reactor_controller": "§7Controlador de reactor",
+  "block.mekanismgenerators.solar_generator": "§7Generador solar",
+  "block.mekanismgenerators.turbine_casing": "§7Carcasa de turbina",
+  "block.mekanismgenerators.turbine_rotor": "§7Rotor de turbina",
+  "block.mekanismgenerators.turbine_valve": "§7V\u00e1lvula de turbina",
+  "block.mekanismgenerators.turbine_vent": "§7Ventilaci\u00f3n de turbina",
+  "block.mekanismgenerators.wind_generator": "§7Molino de viento"
+}

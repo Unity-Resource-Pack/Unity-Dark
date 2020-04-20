@@ -1,0 +1,13 @@
+{
+  "block.mekanismgenerators.advanced_solar_generator": "§7\uace0\uae09 \ud0dc\uc591\uc5f4 \ubc1c\uc804\uae30",
+  "block.mekanismgenerators.bio_generator": "§7\ubc14\uc774\uc624\uc5f0\ub8cc \ubc1c\uc804\uae30",
+  "block.mekanismgenerators.gas_burning_generator": "§7\uac00\uc2a4 \ubc1c\uc804\uae30",
+  "block.mekanismgenerators.heat_generator": "§7\uc9c0\uc5f4 \ubc1c\uc804\uae30",
+  "block.mekanismgenerators.reactor_controller": "§7Reactor Controller",
+  "block.mekanismgenerators.solar_generator": "§7\ud0dc\uc591\uc5f4 \ubc1c\uc804\uae30",
+  "block.mekanismgenerators.turbine_casing": "§7Turbine Casing",
+  "block.mekanismgenerators.turbine_rotor": "§7Turbine Rotor",
+  "block.mekanismgenerators.turbine_valve": "§7Turbine Valve",
+  "block.mekanismgenerators.turbine_vent": "§7Turbine Vent",
+  "block.mekanismgenerators.wind_generator": "§7\ud48d\ub825 \ubc1c\uc804\uae30"
+}
