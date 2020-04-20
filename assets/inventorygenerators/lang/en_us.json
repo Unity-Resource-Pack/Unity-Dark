@@ -1,0 +1,20 @@
+{
+    "itemGroup.invgens": "Inventory Generators",
+    
+    "container.upgrades": "§7Upgrades",
+
+    "item.inventorygenerators.inv_culinary_gen": "§7Inventory Culinary Generator",
+    "item.inventorygenerators.inv_end_gen": "§7Inventory End Generator",
+    "item.inventorygenerators.inv_explosive_gen": "§7Inventory Explosive Generator",
+    "item.inventorygenerators.inv_halitosis_gen": "§7Inventory Halitosis Generator",
+    "item.inventorygenerators.inv_furnace_gen": "§7Inventory Furnace Generator",
+    "item.inventorygenerators.inv_frosty_gen": "§7Inventory Frosty Generator",
+    "item.inventorygenerators.inv_magmatic_gen": "§7Inventory Magmatic Generator",
+    "item.inventorygenerators.inv_death_gen": "§7Inventory Death Generator",
+    "item.inventorygenerators.inv_nether_star_gen": "§7Inventory Nether Star Generator",
+    "item.inventorygenerators.inv_overclocked_gen": "§7Inventory Overclocked Generator",
+    "item.inventorygenerators.inv_pink_gen": "§7Inventory Pink Generator",
+    "item.inventorygenerators.inv_potion_gen": "§7Inventory Potion Generator",
+    "item.inventorygenerators.inv_slimey_gen": "§7Inventory Slimey Generator",
+    "item.inventorygenerators.inv_survivalist_gen": "§7Inventory Survivalist Generator"
+}
