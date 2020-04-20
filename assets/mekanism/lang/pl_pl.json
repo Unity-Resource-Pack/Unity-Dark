@@ -193,7 +193,6 @@
   "gui.mekanism.delay": "§7Delay: %st",
   "gui.mekanism.dissipated": "§7Dissipated: %s/t",
   "gui.mekanism.dynamic_tank": "§7Obudowa zbiornika",
-  "gui.mekanism.eject": "§7Eject: %s",
   "gui.mekanism.empty": "§7Empty",
   "gui.mekanism.energy": "§7Energy: %s",
   "gui.mekanism.finished": "§7Finished: %s",

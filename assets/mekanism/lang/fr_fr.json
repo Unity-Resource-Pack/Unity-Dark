@@ -193,7 +193,6 @@
   "gui.mekanism.delay": "§7Retard: %st",
   "gui.mekanism.dissipated": "§7Dissip\u00e9 : %s/t",
   "gui.mekanism.dynamic_tank": "§7R\u00e9servoir dynamique",
-  "gui.mekanism.eject": "§7Ejecter: %s",
   "gui.mekanism.empty": "§7Vide",
   "gui.mekanism.energy": "§7\u00c9nergie: %s",
   "gui.mekanism.finished": "§7Fini: %s",

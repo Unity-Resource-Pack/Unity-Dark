@@ -193,7 +193,6 @@
   "gui.mekanism.delay": "§7\u9045\u5ef6: %st",
   "gui.mekanism.dissipated": "§7\u6e29\u5ea6\u5909\u5316: %s/t",
   "gui.mekanism.dynamic_tank": "§7\u30c0\u30a4\u30ca\u30df\u30c3\u30af\u30bf\u30f3\u30af",
-  "gui.mekanism.eject": "§7\u642c\u51fa: %s",
   "gui.mekanism.empty": "§7\u7a7a",
   "gui.mekanism.energy": "§7\u30a8\u30cd\u30eb\u30ae\u30fc: %s",
   "gui.mekanism.finished": "§7\u5b8c\u4e86: %s",

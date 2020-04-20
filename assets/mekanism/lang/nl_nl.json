@@ -193,7 +193,6 @@
   "gui.mekanism.delay": "§7Vertraging: %st",
   "gui.mekanism.dissipated": "§7Gestippeld: %s/t",
   "gui.mekanism.dynamic_tank": "§7Dynamische tank",
-  "gui.mekanism.eject": "§7Eject: %s",
   "gui.mekanism.empty": "§7Leeg",
   "gui.mekanism.energy": "§7Energie: %s",
   "gui.mekanism.finished": "§7Voltooid: %s",

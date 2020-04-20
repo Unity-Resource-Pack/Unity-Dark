@@ -193,7 +193,6 @@
   "gui.mekanism.delay": "§7Ritardo: %st",
   "gui.mekanism.dissipated": "§7Dissipato: %s/t",
   "gui.mekanism.dynamic_tank": "§7Tanica Dinamica",
-  "gui.mekanism.eject": "§7Auto-espulsione: %s",
   "gui.mekanism.empty": "§7Vuoto",
   "gui.mekanism.energy": "§7Energia: %s",
   "gui.mekanism.finished": "§7Finito: %s",
