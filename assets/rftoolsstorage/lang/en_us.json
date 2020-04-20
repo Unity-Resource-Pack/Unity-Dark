@@ -1,21 +1,3 @@
 {
-    "item.rftoolsstorage.storage_module0": "Tier 1 Storage Module",
-    "item.rftoolsstorage.storage_module1": "Tier 2 Storage Module",
-    "item.rftoolsstorage.storage_module2": "Tier 3 Storage Module",
-    "item.rftoolsstorage.storage_module3": "Tier 4 Storage Module",
-    "item.rftoolsstorage.storage_module6": "Remote Storage Module",
-    "item.rftoolsstorage.storage_module_tablet": "Storage Tablet",
-    "item.rftoolsstorage.filter_module": "Filter Module",
-    "item.rftoolsstorage.oredict_module": "Ore Dictionary Type Module",
-    "item.rftoolsstorage.generic_module": "Generic Type Module",
-
-    "block.rftoolsstorage.modular_storage": "Modular Storage",
-    "block.rftoolsstorage.remote_storage": "Remote Storage",
-    "block.rftoolsstorage.storage_scanner": "Storage Scanner",
-
-    "_comment": "Creative Tabs",
-    "itemGroup.rftoolsstorage": "RFTools Storage",
-
-    "_comment": "Messages",
-    "message.rftoolsstorage.shiftmessage": "<Press Shift>"
+  "itemGroup.rftoolsstorage": "§7RFTools Storage"
 }
