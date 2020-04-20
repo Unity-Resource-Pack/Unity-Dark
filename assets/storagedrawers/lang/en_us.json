@@ -36,5 +36,7 @@
     "block.storagedrawers.dark_oak_half_drawers_2": "§7Dark Oak Half Drawers 1x2",
     "block.storagedrawers.dark_oak_half_drawers_4": "§7Dark Oak Half Drawers 2x2",
 
-    "container.storagedrawers.upgrades": "§7Upgrades"
+    "container.storagedrawers.upgrades": "§7Upgrades",
+
+    "itemGroup.storagedrawers": "Storage Drawers"
 }
