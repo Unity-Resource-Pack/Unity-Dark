@@ -1,0 +1,31 @@
+{
+    "container.silents_mechanisms.alloy_smelter": "§7合金冶炼",
+    "container.silents_mechanisms.battery_box": "§7电池盒",
+    "container.silents_mechanisms.coal_generator": "§7燃煤发电机",
+    "container.silents_mechanisms.compressor": "§7压缩机",
+    "container.silents_mechanisms.crusher": "§7粉碎机",
+    "container.silents_mechanisms.diesel_generator": "§7柴油发电机",
+    "container.silents_mechanisms.electric_furnace": "§7电炉",
+    "container.silents_mechanisms.lava_generator": "§7熔岩发电机",
+    "container.silents_mechanisms.mixer": "§7混合搅拌机",
+    "container.silents_mechanisms.pump": "§7泵",
+    "container.silents_mechanisms.refinery": "§7炼油厂",
+    "container.silents_mechanisms.solidifier": "§7凝固机",
+    
+    "jei.silents_mechanisms.category.alloy_smelting": "§7合金冶炼",
+    "jei.silents_mechanisms.category.compressing": "§7压缩",
+    "jei.silents_mechanisms.category.crushing": "§7粉碎",
+    "jei.silents_mechanisms.category.drying": "§7风干",
+    "jei.silents_mechanisms.category.mixing": "§7混合",
+    "jei.silents_mechanisms.category.refining": "§7精炼",
+    "jei.silents_mechanisms.category.solidifying": "§7凝固",
+    
+    "misc.silents_mechanisms.empty": "§7空",
+    "misc.silents_mechanisms.energy": "§7%s FE",
+    "misc.silents_mechanisms.energyPerTick": "§7%s FE/t",
+    "misc.silents_mechanisms.energyWithMax": "§7%s / %s FE",
+    "misc.silents_mechanisms.fluidWithMax": "§7%s: %s / %s mB",
+    "misc.silents_mechanisms.redstoneMode": "§7红石模式：%s",
+    "misc.silents_mechanisms.timeInSeconds": "§7时间：%ss",
+    "misc.silents_mechanisms.upgradeSlot": "§7升级插槽"
+}

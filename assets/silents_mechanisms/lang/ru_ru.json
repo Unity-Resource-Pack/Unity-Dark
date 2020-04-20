@@ -1,0 +1,31 @@
+{
+    "container.silents_mechanisms.alloy_smelter": "§7Плавитель сплавов",
+    "container.silents_mechanisms.battery_box": "§7Аккумуляторная коробка",
+    "container.silents_mechanisms.coal_generator": "§7Угольный генератор",
+    "container.silents_mechanisms.compressor": "§7Сжиматель",
+    "container.silents_mechanisms.crusher": "§7Дробитель",
+    "container.silents_mechanisms.diesel_generator": "§7Дизельный генератор",
+    "container.silents_mechanisms.electric_furnace": "§7Электрическая печь",
+    "container.silents_mechanisms.lava_generator": "§7Лавовый генератор",
+    "container.silents_mechanisms.mixer": "§7Миксер",
+    "container.silents_mechanisms.pump": "§7Насос",
+    "container.silents_mechanisms.refinery": "§7Очиститель",
+    "container.silents_mechanisms.solidifier": "§7Отвердитель",
+    
+    "jei.silents_mechanisms.category.alloy_smelting": "§7Плавка сплавов",
+    "jei.silents_mechanisms.category.compressing": "§7Сжимание",
+    "jei.silents_mechanisms.category.crushing": "§7Дробление",
+    "jei.silents_mechanisms.category.drying": "§7Сушка",
+    "jei.silents_mechanisms.category.mixing": "§7Смешивание",
+    "jei.silents_mechanisms.category.refining": "§7Очистка",
+    "jei.silents_mechanisms.category.solidifying": "§7Отвердевание",
+    
+    "misc.silents_mechanisms.empty": "§7Пусто",
+    "misc.silents_mechanisms.energy": "§7%s FE",
+    "misc.silents_mechanisms.energyPerTick": "§7%s FE/тик",
+    "misc.silents_mechanisms.energyWithMax": "§7%s / %s FE",
+    "misc.silents_mechanisms.fluidWithMax": "§7%s: %s / %s mB",
+    "misc.silents_mechanisms.redstoneMode": "§7Редстоун режим: %s",
+    "misc.silents_mechanisms.timeInSeconds": "§7Время: %ss",
+    "misc.silents_mechanisms.upgradeSlot": "§7Слот улучшений"
+}
