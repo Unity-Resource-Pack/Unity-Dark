@@ -1,0 +1,20 @@
+{
+    "jei.spw.title": "§7Spawner Modification",
+    "jei.spw.invert": "§7Inverts the behavior of modifiers",
+    "jei.spw.invert2": "§7Must be held in opposite hand",
+    "jei.spw.editmindelay": "§7Decreases minimum spawn delay",
+    "jei.spw.editmaxdelay": "§7Decreases maximum spawn delay",
+    "jei.spw.editspawncount": "§7Increases spawn count",
+    "jei.spw.editnearby": "§7Increases max nearby entities",
+    "jei.spw.editplayer": "§7Increases required player range",
+    "jei.spw.editspawn": "§7Increases spawn range",
+    "jei.spw.ignoreconditions": "§7Ignores spawn conditions",
+    "jei.spw.ignoreplayers": "§7Ingores nearby players",
+    "jei.spw.changeentity": "§7Changes entity spawned",
+    "jei.spw.ignorecap": "§7Ignores spawn cap",
+    "jei.spw.redstone": "§7Enables redstone control",
+    "jei.spw.instructions": "§7Spawners can be modified with various items via right clicking on them.\\n§7A certain item can invert this behavior, causing modifiers to change stats in the opposite direction.\\n§7Spawners will also be dropped with Silk Touch.",
+    "jei.spw.capturing": "§7The capturing enchantment gives monsters a chance to drop their spawn egg.\\n§7+0.4%% chance per level.",
+    
+	"apotheosis.recipes.fletching": "§7Fletching"
+}

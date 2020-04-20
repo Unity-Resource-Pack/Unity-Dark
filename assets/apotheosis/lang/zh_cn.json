@@ -1,0 +1,20 @@
+{
+    "jei.spw.title": "§7刷怪笼修改",
+    "jei.spw.invert": "§7反转调节器的行为",
+    "jei.spw.invert2": "§7必须用一只手拿着",
+    "jei.spw.editmindelay": "§7减小最小刷怪延迟",
+    "jei.spw.editmaxdelay": "§7减小最大刷怪延迟",
+    "jei.spw.editspawncount": "§7增加刷怪数量",
+    "jei.spw.editnearby": "§7增加附近最大实体数",
+    "jei.spw.editplayer": "§7增加玩家激活刷怪笼的范围",
+    "jei.spw.editspawn": "§7增加刷怪范围",
+    "jei.spw.ignoreconditions": "§7忽略刷怪条件",
+    "jei.spw.ignoreplayers": "§7忽略附近玩家",
+    "jei.spw.changeentity": "§7更改生成的实体",
+    "jei.spw.ignorecap": "§7忽略区域刷怪限制",
+    "jei.spw.redstone": "§7启用红石控制",
+    "jei.spw.instructions": "§7手持各种物品右击刷怪笼可以调节刷怪笼.\\n某个物品可以反转此行为, 导致反方向调节刷怪笼的数据.\\n使用精准采集可以获得刷怪笼.",
+    "jei.spw.capturing": "§7捕捉附魔让怪物有机会掉落它们的刷怪蛋.\\n每个附魔等级增加+0.4% 的几率.",
+    
+	"apotheosis.recipes.fletching": "§7制箭"
+}
