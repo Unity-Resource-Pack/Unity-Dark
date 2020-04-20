@@ -12,6 +12,8 @@
     "container.silents_mechanisms.refinery": "§7Refinery",
     "container.silents_mechanisms.solidifier": "§7Solidifier",
 
+    "itemGroup.silents_mechanisms": "Silent's Mechanisms",
+    
     "jei.silents_mechanisms.category.alloy_smelting": "§7Alloy Smelting",
     "jei.silents_mechanisms.category.compressing": "§7Compressing",
     "jei.silents_mechanisms.category.crushing": "§7Crushing",
