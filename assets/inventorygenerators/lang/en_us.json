@@ -1,4 +1,6 @@
 {
+    "itemGroup.invgens": "Inventory Generators",
+    
     "container.upgrades": "§7Upgrades",
 
     "item.inventorygenerators.inv_culinary_gen": "§7Inventory Culinary Generator",
