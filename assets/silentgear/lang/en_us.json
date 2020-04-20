@@ -1,4 +1,6 @@
 {
+  "itemGroup.silentgear": "Silent Gear",
+  
   "block.silentgear.crafting_station": "§7Crafting Station",
   "block.silentgear.crafting_station.upgrades": "§7Upgrades: %s",
   "block.silentgear.crafting_station.upgrade_format": "§7- %s",
