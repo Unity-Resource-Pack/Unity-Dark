@@ -1,23 +1,10 @@
 {
   "block.silentgear.crafting_station": "§7合成站",
-  "block.silentgear.crafting_station.upgrades": "§7升级: %s",
-  "block.silentgear.crafting_station.upgrade_format": "§7- %s",
-  "block.silentgear.crimson_iron_ore": "§7深红铁矿石",
-  "block.silentgear.flax_plant": "§7亚麻植株",
-  "block.silentgear.netherwood_leaves": "§7下届树树叶",
-  "block.silentgear.netherwood_log": "§7下届树",
-  "block.silentgear.netherwood_planks": "§7下届树木板",
-  "block.silentgear.netherwood_sapling": "§7下届树树苗",
   "block.silentgear.part_analyzer": "§7部件分析仪",
-  "block.silentgear.potted_netherwood_sapling": "§7下届树树苗盆栽",
   "block.silentgear.salvager": "§7手残拯救者",
-  "block.silentgear.salvager.desc": "§7可以将一些物品分解为他们的部件",
-  "block.silentgear.stone_torch": "§7石柄火把",
   
   "gui.silentgear.crafting_station.crafting": "§7合成",
   "gui.silentgear.crafting_station.storage": "§7存储",
-  "gui.silentgear.crafting_station.parts_button.hover1": "§7显示可用部件",
-  "gui.silentgear.crafting_station.parts_button.hover2": "§7列表可以按属性排序",
   "gui.silentgear.part_analyzer.catalystTier": "§7催化剂等级: %s",
   
   "jei.silentgear.blueprint.desc": "§7蓝图和模板用于制作工具头部和装甲.蓝图可以无限重复使用,模板是单次使用.在合成站中制作物品时, 你可以混合材料.否则,材料必须全部相同.有关制作最终物品的详细信息,请查看蓝图/模板的工具提示.",
