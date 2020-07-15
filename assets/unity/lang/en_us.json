@@ -37,5 +37,16 @@
   "container.brewing": "§7Brewing Stand",
   "container.grindstone_title": "§7Repair & Disenchant",
   "container.cartography_table": "§7Cartography Table",
-  "container.stonecutter": "§7Stonecutter"
+  "container.stonecutter": "§7Stonecutter",
+
+  "_comment": "IRON CHESTS",
+  "ironchest.container.iron_chest": "§7Iron Chest",
+  "ironchest.container.gold_chest": "§7Gold Chest",
+  "ironchest.container.diamond_chest": "§7Diamond Chest",
+  "ironchest.container.copper_chest": "§7Copper Chest",
+  "ironchest.container.silver_chest": "§7Silver Chest",
+  "ironchest.container.crystal_chest": "§7Crystal Chest",
+  "ironchest.container.obsidian_chest": "§7Obsidian Chest",
+  "ironchest.container.dirt_chest": "§7DirtChest 9000!",
+  "itemGroup.ironchest": "§7Iron Chests"
 }
