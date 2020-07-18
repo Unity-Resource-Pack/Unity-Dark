@@ -1,0 +1,14 @@
+{
+  "teleport": {
+    "category": "block",
+    "replace": true,
+    "subtitle": "elevatorid.subtitle.teleport",
+		"sounds": [
+			"elevatorid:teleport1",
+			"elevatorid:teleport2",
+			"elevatorid:teleport3",
+			"elevatorid:teleport4",
+			"elevatorid:teleport5"
+		]
+  }
+}
