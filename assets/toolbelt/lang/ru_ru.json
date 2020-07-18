@@ -1,0 +1,12 @@
+{
+  "item.toolbelt.belt": "§7Пояс с инструментами",
+  "item.toolbelt.pouch": "§7Поясная сумка",
+  "key.toolbelt.open": "Заменить инструмент",
+  "key.toolbelt.category": "§7Пояс с инструментами",
+  "text.toolbelt.empty": "ПУСТО",
+  "text.toolbelt.swap": "ЗАМЕНИТЬ",
+  "text.toolbelt.insert": "ВСТАВИТЬ",
+  "text.toolbelt.extract": "ИЗВЛЕЧЬ",
+  "text.toolbelt.tooltip": "Улучшения: %s (%s слотов)",
+  "text.toolbelt": "Пояс с инструментами"
+}
