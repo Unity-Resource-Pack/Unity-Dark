@@ -48,5 +48,19 @@
   "ironchest.container.crystal_chest": "§7Crystal Chest",
   "ironchest.container.obsidian_chest": "§7Obsidian Chest",
   "ironchest.container.dirt_chest": "§7DirtChest 9000!",
-  "itemGroup.ironchest": "§7Iron Chests"
+  "itemGroup.ironchest": "§7Iron Chests",
+
+  "_comment": "JEI",
+  "gui.jei.category.craftingTable": "§7Crafting",
+  "gui.jei.category.smelting": "§7Smelting",
+  "gui.jei.category.smoking": "§7Smoking",
+  "gui.jei.category.blasting": "§7Blasting",
+  "gui.jei.category.campfire": "§7Campfire Cooking",
+  "gui.jei.category.smelting.experience": "§7%s XP",
+  "gui.jei.category.fuel": "§7Fuel",
+  "gui.jei.category.fuel.smeltCount.single": "§7Smelts 1 item",
+  "gui.jei.category.fuel.smeltCount": "§7Smelts %s items",
+  "gui.jei.category.brewing": "§7Brewing",
+  "gui.jei.category.brewing.steps": "§7Steps: %s",
+  "gui.jei.category.itemInformation": "§7Information"
 }
