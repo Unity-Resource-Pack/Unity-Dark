@@ -1,7 +1,7 @@
 ---
 name: Suggestion
-about: Suggest additional support for / changes to Unity: Dark.
-title: "Suggestion"
+about: 'Suggest additional support for / changes to Unity: Dark.'
+title: Suggestion
 labels: suggestion
 assignees: ''
 
