@@ -8,12 +8,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    
+
     - name: Extract branch name
       shell: bash
       run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
       id: extract_branch
-    
+
     - name: Extract commit ish
       shell: bash
       run: echo "##[set-output name=ish;]$(echo ${GITHUB_SHA::7})"
@@ -23,7 +23,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         # Artifact name
-        name: unity-${{ steps.extract_branch.outputs.branch }}-${{ steps.extract_ish.outputs.ish }}.${{ github.run_id }}
+        name: unity-dark-${{ steps.extract_branch.outputs.branch }}-${{ steps.extract_ish.outputs.ish }}.${{ github.run_id }}
         # A file, directory or wildcard pattern that describes what to upload
         path: |
           assets/**
