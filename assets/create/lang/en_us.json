@@ -1,0 +1,36 @@
+{
+  "itemGroup.create.base": "§7Create",
+  "itemGroup.create.palettes": "§7Create Palettes",
+  
+  "item.create.handheld_worldshaper": "§dHandheld Worldshaper",
+  "item.create.linked_controller": "§fLinked Controller",
+  "item.create.wand_of_symmetry": "§eWand of Symmetry",
+  "create.gui.terrainzapper.placement": "§7Placement",
+  "create.gui.terrainzapper.tool": "§7Tool",
+  
+  "_comment": "JEI",
+	"create.recipe.crushing": "§7Crushing",
+	"create.recipe.milling": "§7Milling",
+	"create.recipe.fan_washing": "§7Bulk Washing",
+	"create.recipe.fan_smoking": "§7Bulk Smoking",
+	"create.recipe.fan_blasting": "§7Bulk Blasting",
+	"create.recipe.pressing": "§7Pressing",
+	"create.recipe.mixing": "§7Mixing",
+	"create.recipe.deploying": "§7Deploying",
+	"create.recipe.automatic_shapeless": "§7Automated Shapeless Crafting",
+	"create.recipe.automatic_brewing": "§7Automated Brewing",
+	"create.recipe.packing": "§7Compacting",
+	"create.recipe.automatic_packing": "§7Automated Packing",
+	"create.recipe.sawing": "§7Sawing",
+	"create.recipe.mechanical_crafting": "§7Mechanical Crafting",
+	"create.recipe.automatic_shaped": "§7Automated Shaped Crafting",
+	"create.recipe.block_cutting": "§7Block Cutting",
+	"create.recipe.wood_cutting": "§7Wood Cutting",
+	"create.recipe.sandpaper_polishing": "§7Sandpaper Polishing",
+	"create.recipe.mystery_conversion": "§7Mysterious Conversion",
+	"create.recipe.spout_filling": "§7Filling by Spout",
+	"create.recipe.draining": "§7Item Draining",
+	"create.recipe.sequenced_assembly": "§7Sequenced Assembly",
+	
+	"create.recipe.heat_requirement.none": "§7No Heating Required"
+}
