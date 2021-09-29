@@ -1,0 +1,41 @@
+{
+    "itemGroup.sophisticatedbackpacks": "§7Sophisticated Backpacks",
+	
+	"item.sophisticatedbackpacks.backpack": "§7Backpack",
+	"item.sophisticatedbackpacks.iron_backpack": "§7Iron Backpack",
+    "item.sophisticatedbackpacks.gold_backpack": "§7Gold Backpack",
+    "item.sophisticatedbackpacks.diamond_backpack": "§7Diamond Backpack",
+    "item.sophisticatedbackpacks.netherite_backpack": "§7Netherite Backpack",
+    
+	"gui.sophisticatedbackpacks.upgrades.pickup": "§7Pickup",
+    "gui.sophisticatedbackpacks.upgrades.advanced_pickup": "§7Adv. Pickup",
+    "gui.sophisticatedbackpacks.upgrades.filter": "§7Filter",
+    "gui.sophisticatedbackpacks.upgrades.advanced_filter": "§7Adv. Filter",
+    "gui.sophisticatedbackpacks.upgrades.magnet": "§7Magnet",
+    "gui.sophisticatedbackpacks.upgrades.advanced_magnet": "§7Adv. Magnet",
+    "gui.sophisticatedbackpacks.upgrades.feeding": "§7Feeding",
+    "gui.sophisticatedbackpacks.upgrades.advanced_feeding": "§7Adv. Feeding",
+    "gui.sophisticatedbackpacks.upgrades.compacting": "§7Compa...",
+    "gui.sophisticatedbackpacks.upgrades.void": "§7Void",
+    "gui.sophisticatedbackpacks.upgrades.advanced_void": "§7Adv. Void",
+    "gui.sophisticatedbackpacks.upgrades.restock": "§7Restock",
+    "gui.sophisticatedbackpacks.upgrades.advanced_restock": "§7Adv. Restock",
+    "gui.sophisticatedbackpacks.upgrades.deposit": "§7Deposit",
+    "gui.sophisticatedbackpacks.upgrades.advanced_deposit": "§7Adv. Deposit",
+    "gui.sophisticatedbackpacks.upgrades.advanced_compacting": "§7Adv. Comp...",
+    "gui.sophisticatedbackpacks.upgrades.refill": "§7Refill",
+    "gui.sophisticatedbackpacks.upgrades.smelting": "§7Smelting",
+    "gui.sophisticatedbackpacks.upgrades.auto_smelting": "§7Auto-smelt",
+    "gui.sophisticatedbackpacks.upgrades.crafting": "§7Craft",
+    "gui.sophisticatedbackpacks.upgrades.stonecutter": "§7Stonecutter",
+    "gui.sophisticatedbackpacks.upgrades.inception": "§7Inception",
+    "gui.sophisticatedbackpacks.upgrades.jukebox": "§7Jukebox",
+    "gui.sophisticatedbackpacks.upgrades.advanced_tool_swapper": "§7Tool Swap",
+    "gui.sophisticatedbackpacks.upgrades.tank": "§7Tank",
+    "gui.sophisticatedbackpacks.upgrades.battery": "§7Batt.",
+
+	"gui.sophisticatedbackpacks.settings.backpack": "§7Backpack",
+    "gui.sophisticatedbackpacks.settings.no_sort": "§7No Sort"
+   
+  
+}
