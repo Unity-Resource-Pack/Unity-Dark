@@ -1,0 +1,48 @@
+{
+  "_comment": "Tinkers Tables",
+  "block.tconstruct.crafting_station": "Crafting Station",
+  "block.tconstruct.tinker_station": "§7Tinker Station",
+  "block.tconstruct.tinkers_anvil": "§7Tinker's Anvil",
+  "block.tconstruct.scorched_anvil": "§7Tinker's Anvil",
+
+
+  "gui.tconstruct.duct": "§7Duct",
+
+
+  "_comment": "Tinkers Smeltery",
+  "gui.tconstruct.melter": "§7Melter",
+  "gui.tconstruct.heater": "§7Heater",
+  "gui.tconstruct.smeltery": "§7Smeltery",
+
+  "_comment": "Tinkers Foundry",
+  "gui.tconstruct.alloyer": "§7Alloyer",
+  "gui.tconstruct.foundry": "§7Foundry",
+  
+  "_comment": "GUIs",
+  "itemGroup.tconstruct.general": "§7Tinkers' General Items",
+  "itemGroup.tconstruct.tools": "§7Tinkers' Tools",
+  "itemGroup.tconstruct.tool_parts": "§7Tinkers' Toolparts",
+  "itemGroup.tconstruct.smeltery": "§7Tinkers' Smeltery",
+  "itemGroup.tconstruct.world": "§7Tinkers' World",
+  "itemGroup.tconstruct.gadgets": "§7Tinkers' Gadgets",
+  "gui.tconstruct.crafting_station": "§7Crafting Station",
+  "gui.tconstruct.part_builder": "§7Part Builder",
+  "gui.tconstruct.tinkers_chest": "§7Tinker's Chest",
+  "gui.tconstruct.cast_chest": "§7Cast Chest",
+  "gui.tconstruct.part_chest": "§7Part Chest",
+  "gui.tconstruct.tinker_station": "§7Tinker Station",
+
+  "_comment": "JEI Strings",
+  "jei.tconstruct.casting.basin": "§7Casting Basin",
+  "jei.tconstruct.casting.table": "§7Casting Table",
+  "jei.tconstruct.molding.title": "§7Molding",
+  "jei.tconstruct.melting.title": "§7Melting",
+  "jei.tconstruct.foundry.title": "§7Foundry",
+  "jei.tconstruct.entity_melting.title": "§7Entity Melting",
+  "jei.tconstruct.alloy.title": "§7Alloying",
+  "jei.tconstruct.modifiers.title": "§7Modifiers",
+  "jei.tconstruct.severing.title": "§7Severing",
+  "jei.tconstruct.part_builder.title": "§7Part Builder"
+
+}
+
