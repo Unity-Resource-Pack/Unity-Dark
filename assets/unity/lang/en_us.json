@@ -199,7 +199,16 @@
   "advancements.story.smelt_iron.description": "§7Smelt an iron ingot",
   "advancements.story.upgrade_tools.title": "Getting an Upgrade",
   "advancements.story.upgrade_tools.description": "§7Construct a better pickaxe",
-
+  
+  "_comment": "CAMERA",
+  "item.camera.album": "§7Album",
+  "gui.camera.choose_filter": "§7Choose a Filter",
+  "gui.camera.upload_image": "§7Upload an image",
+  "gui.camera.title": "§7Camera",
+  "gui.frame.resize": "§fResize Frame",
+  "gui.frame.resize_description": "§7Hold SHIFT to shrink",
+  "jei.camera.take_image": "§7Taking an image",
+ 
   "_comment": "IRON CHESTS",
   "ironchest.container.iron_chest": "§7Iron Chest",
   "ironchest.container.gold_chest": "§7Gold Chest",
