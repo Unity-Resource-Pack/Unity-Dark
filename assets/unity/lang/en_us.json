@@ -281,5 +281,16 @@
   "gui.jei.category.fuel.smeltCount": "§7Smelts %s items",
   "gui.jei.category.brewing": "§7Brewing",
   "gui.jei.category.brewing.steps": "§7Steps: %s",
-  "gui.jei.category.itemInformation": "§7Information"
+  "gui.jei.category.itemInformation": "§7Information",
+  
+  "_comment": "Botanical Machinery",
+  "screen.botanicalmachinery.alfheim_market": "§7Alfheim Market",
+  "screen.botanicalmachinery.industrial_agglomeration_factory": "§7Industrial Agglomeration Factory",
+  "screen.botanicalmachinery.mana_battery": "§7Mana Battery",
+  "screen.botanicalmachinery.mana_battery_creative": "§7Creative Mana Battery",
+  "screen.botanicalmachinery.mechanical_apothecary": "§7Mechanical Apothecary",
+  "screen.botanicalmachinery.mechanical_brewery": "§7Mechanical Brewery",
+  "screen.botanicalmachinery.mechanical_daisy": "§7Mechanical Daisy",
+  "screen.botanicalmachinery.mechanical_mana_pool": "§7Machanical Mana Pool",
+  "screen.botanicalmachinery.mechanical_runic_altar": "§7Mechanical Runic Altar"
 }
