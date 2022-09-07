@@ -476,5 +476,13 @@
     "itemGroup.industrialforegoing_generator": "§7Industrial Foregoing: Generators",
     "itemGroup.industrialforegoing_ag_hus": "§7Industrial Foregoing: Agriculture & Husbandry",
     "itemGroup.industrialforegoing_resource_production": "§7Industrial Foregoing: Resource Production",
-    "itemGroup.industrialforegoing_misc": "§7Industrial Foregoing: Misc"
+    "itemGroup.industrialforegoing_misc": "§7Industrial Foregoing: Misc",
+
+    "itemGroup.chiselsandbits": "§7Chisels & Bits",
+    "item.chiselsandbits.bit_bag": "§7Chiseled Bit Bag",
+    "item.chiselsandbits.bit_bag_dyed": "§7Chiseled Bit Bag",
+    "block.chiselsandbits.chiseled_printer": "§7Chisel Station",
+    "block.chiselsandbits.pattern_scanner": "§7Pattern Scanner and Printer",
+    "block.chiselsandbits.modification_table": "§7Modification Table"
+
 }
