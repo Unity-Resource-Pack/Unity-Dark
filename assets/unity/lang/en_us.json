@@ -517,5 +517,7 @@
     "alchemistry.jei.elements.description": "§7All elements (except Hydrogen) can be created with the Fusion Chamber multiblock.\\nThe multiblock accepts 2 elements as input and fuses them together to create a new element equal to the sum of their atomic numbers.\"",
     "alchemistry.jei.fission_controller": "§7Fission Controller",
     "alchemistry.jei.fusion_controller": "§7Fusion Controller",
-    "alchemistry.jei.liquifier": "§7Liquifier"
+    "alchemistry.jei.liquifier": "§7Liquifier",
+
+    "itemGroup.rechiseled": "§7Rechiseled"
 }
