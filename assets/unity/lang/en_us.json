@@ -476,5 +476,14 @@
     "itemGroup.industrialforegoing_generator": "§7Industrial Foregoing: Generators",
     "itemGroup.industrialforegoing_ag_hus": "§7Industrial Foregoing: Agriculture & Husbandry",
     "itemGroup.industrialforegoing_resource_production": "§7Industrial Foregoing: Resource Production",
-    "itemGroup.industrialforegoing_misc": "§7Industrial Foregoing: Misc"
+    "itemGroup.industrialforegoing_misc": "§7Industrial Foregoing: Misc",
+
+    "itemGroup.extendedcrafting": "§7Extended Crafting",
+    "container.extendedcrafting.crafting_core": "§7Crafting Core",
+    "container.extendedcrafting.basic_table": "§7Basic Crafting",
+    "container.extendedcrafting.advanced_table": "§7Advanced Crafting",
+    "container.extendedcrafting.elite_table": "§7Elite Crafting",
+    "container.extendedcrafting.ultimate_table": "§7Ultimate Crafting",
+    "container.extendedcrafting.compressor": "§7Quantum Compressor",
+    "container.extendedcrafting.ender_crafter": "§7Ender Crafting"
 }
