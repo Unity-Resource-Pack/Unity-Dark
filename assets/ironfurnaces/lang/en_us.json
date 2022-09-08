@@ -1,0 +1,19 @@
+{
+    "_comment": "TAB",
+    "itemGroup.ironfurnaces": "§7Iron Furnaces",
+    "_comment": "GUI",
+    "container.ironfurnaces.iron_furnace": "§7Iron Furnace",
+    "container.ironfurnaces.gold_furnace": "§7Golden Furnace",
+    "container.ironfurnaces.diamond_furnace": "§7Diamond Furnace",
+    "container.ironfurnaces.emerald_furnace": "§7Emerald Furnace",
+    "container.ironfurnaces.obsidian_furnace": "§7Obsidian Furnace",
+    "container.ironfurnaces.crystal_furnace": "§7Crystal Furnace",
+    "container.ironfurnaces.netherite_furnace": "§7Netherite Furnace",
+    "container.ironfurnaces.copper_furnace": "§7Copper Furnace",
+    "container.ironfurnaces.silver_furnace": "§7Silver Furnace",
+    "container.ironfurnaces.million_furnace": "§7Rainbow Furnace",
+    "container.ironfurnaces.wireless_energy_heater": "§7Wireless Heater",
+    "ironfurnaces.jei_category_regular": "§7Augment: Generator",
+    "ironfurnaces.jei_category_blasting": "§7Generator | Blasting",
+    "ironfurnaces.jei_category_smoking": "§7Generator | Smoking"
+}
