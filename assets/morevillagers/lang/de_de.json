@@ -1,0 +1,12 @@
+{
+  "itemGroup.morevillagers.tab": "§7More Villagers",
+
+  "entity.minecraft.villager.morevillagers.oceanographer": "§7Ozeanograph",
+  "entity.minecraft.villager.morevillagers.netherian": "§7Netherologe",
+  "entity.minecraft.villager.morevillagers.woodworker": "§7Förster",
+  "entity.minecraft.villager.morevillagers.enderian": "§7Enderologe",
+  "entity.minecraft.villager.morevillagers.engineer": "§7Ingenieur",
+  "entity.minecraft.villager.morevillagers.florist": "§7Florist",
+  "entity.minecraft.villager.morevillagers.hunter": "§7Jäger",
+  "entity.minecraft.villager.morevillagers.miner": "§7Bergarbeiter"
+}
