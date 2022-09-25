@@ -1,0 +1,12 @@
+{
+  "itemGroup.morevillagers.tab": "§7更多村民",
+
+  "entity.minecraft.villager.morevillagers.oceanographer": "§7海洋学家",
+  "entity.minecraft.villager.morevillagers.netherian": "§7下界学家",
+  "entity.minecraft.villager.morevillagers.woodworker": "§7林业员",
+  "entity.minecraft.villager.morevillagers.enderian": "§7末地学家",
+  "entity.minecraft.villager.morevillagers.engineer": "§7工程师",
+  "entity.minecraft.villager.morevillagers.florist": "§7花匠",
+  "entity.minecraft.villager.morevillagers.hunter": "§7猎人",
+  "entity.minecraft.villager.morevillagers.miner": "§7矿工"
+}
