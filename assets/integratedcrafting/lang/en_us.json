@@ -1,0 +1,20 @@
+{
+  "_comment": "General",
+  "itemGroup.integratedcrafting": "§7Integrated Crafting",
+  "general.integratedcrafting.description": "§7Craft stuff in Integrated Dynamics networks.",
+
+  "_comment": "Part types",
+  "parttype.integratedcrafting.interface_crafting": "§7Crafting Interface",
+
+  "parttype.integratedcrafting.crafting_writer": "§7Crafting Writer",
+
+  "_comment": "# Crafting",
+  "aspect.integratedcrafting.write.recipe.craft": "§7Craft Recipe",
+  "aspect.integratedcrafting.write.recipe.craft.info": "§7Craft the given recipe",
+  "aspect.integratedcrafting.write.itemstack.craft": "§7Craft Item",
+  "aspect.integratedcrafting.write.itemstack.craft.info": "§7Craft the given item",
+  "aspect.integratedcrafting.write.fluidstack.craft": "§7Craft Fluid",
+  "aspect.integratedcrafting.write.fluidstack.craft.info": "§7Craft the given fluid",
+  "aspect.integratedcrafting.write.integer.craft": "§7Craft Energy",
+  "aspect.integratedcrafting.write.integer.craft.info": "§7Craft the given energy amount"
+}
