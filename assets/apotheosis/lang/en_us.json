@@ -1,0 +1,25 @@
+{
+    
+    "container.apotheosis.salvage": "§7Salvage",
+    "text.apotheosis.results": "§7Results",
+    "container.apotheosis.reforge": "§7Reforge",
+    "info.apotheosis.enchinfo_title": "§7Available Enchantments",
+    "apotheosis.recipes.fletching": "§7Fletching",
+    "block.apotheosis.ender_library": "§7Library of Alexandria",
+    "tooltip.enchlib.nfilt": "§7Name Filter",
+    "tooltip.enchlib.ifilt": "§7Item Filter",
+
+    "stat.apotheosis.min_delay": "§7Min Spawn Delay",
+    "stat.apotheosis.max_delay": "§7Max Spawn Delay",
+    "stat.apotheosis.spawn_count": "§7Spawn Count",
+    "stat.apotheosis.max_nearby_entities": "§7Max Entities",
+    "stat.apotheosis.req_player_range": "§7Activation Range",
+    "stat.apotheosis.spawn_range": "§7Spawn Range",
+    "stat.apotheosis.ignore_players": "§7Ignores Players",
+    "stat.apotheosis.ignore_conditions": "§7Ignores Conditions",
+    "stat.apotheosis.redstone_control": "§7Redstone Control",
+    "stat.apotheosis.ignore_light": "§7Ignores Light",
+    "stat.apotheosis.no_ai": "§7No AI",
+	"stat.apotheosis.silent": "§7Silent"
+   
+}
