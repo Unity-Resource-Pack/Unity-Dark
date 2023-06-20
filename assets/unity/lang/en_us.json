@@ -470,14 +470,6 @@
     "_commentBG": "Building Gadgets:",
     "itemGroup.buildinggadgets": "§7Building Gadgets",
 
-    "itemGroup.industrialforegoing_core": "§7Industrial Foregoing: Core",
-    "itemGroup.industrialforegoing_tool": "§7Industrial Foregoing: Tools",
-    "itemGroup.industrialforegoing_transport": "§7Industrial Foregoing: Transport & Storage",
-    "itemGroup.industrialforegoing_generator": "§7Industrial Foregoing: Generators",
-    "itemGroup.industrialforegoing_ag_hus": "§7Industrial Foregoing: Agriculture & Husbandry",
-    "itemGroup.industrialforegoing_resource_production": "§7Industrial Foregoing: Resource Production",
-    "itemGroup.industrialforegoing_misc": "§7Industrial Foregoing: Misc",
-
     "itemGroup.extendedcrafting": "§7Extended Crafting",
     "container.extendedcrafting.crafting_core": "§7Crafting Core",
     "container.extendedcrafting.basic_table": "§7Basic Crafting",
