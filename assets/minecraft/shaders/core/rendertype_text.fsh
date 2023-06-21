@@ -20,5 +20,10 @@ void main() {
     if (color.a < 0.1) {
         discard;
     }
+
+    if(color.r == 63/255.0 && color.g == 63/255.0 && color.b == 63/255.0){
+        color = vec4(0.6588, 0.6588, 0.6588, color.a);
+    }
+
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
 }
