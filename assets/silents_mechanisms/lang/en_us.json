@@ -1,0 +1,33 @@
+{
+    "container.silents_mechanisms.alloy_smelter": "§7Alloy Smelter",
+    "container.silents_mechanisms.battery_box": "§7Battery Box",
+    "container.silents_mechanisms.coal_generator": "§7Coal Generator",
+    "container.silents_mechanisms.compressor": "§7Compressor",
+    "container.silents_mechanisms.crusher": "§7Crusher",
+    "container.silents_mechanisms.diesel_generator": "§7Diesel Generator",
+    "container.silents_mechanisms.electric_furnace": "§7Electric Furnace",
+    "container.silents_mechanisms.lava_generator": "§7Lava Generator",
+    "container.silents_mechanisms.mixer": "§7Mixer",
+    "container.silents_mechanisms.pump": "§7Pump",
+    "container.silents_mechanisms.refinery": "§7Refinery",
+    "container.silents_mechanisms.solidifier": "§7Solidifier",
+
+    "itemGroup.silents_mechanisms": "Silent's Mechanisms",
+    
+    "jei.silents_mechanisms.category.alloy_smelting": "§7Alloy Smelting",
+    "jei.silents_mechanisms.category.compressing": "§7Compressing",
+    "jei.silents_mechanisms.category.crushing": "§7Crushing",
+    "jei.silents_mechanisms.category.drying": "§7Drying",
+    "jei.silents_mechanisms.category.mixing": "§7Mixing",
+    "jei.silents_mechanisms.category.refining": "§7Refining",
+    "jei.silents_mechanisms.category.solidifying": "§7Solidifying",
+
+    "misc.silents_mechanisms.empty": "§7Empty",
+    "misc.silents_mechanisms.energy": "§7%s FE",
+    "misc.silents_mechanisms.energyPerTick": "§7%s FE/t",
+    "misc.silents_mechanisms.energyWithMax": "§7%s / %s FE",
+    "misc.silents_mechanisms.fluidWithMax": "§7%s: %s / %s mB",
+    "misc.silents_mechanisms.redstoneMode": "§7Redstone Mode: %s",
+    "misc.silents_mechanisms.timeInSeconds": "§7Time: %ss",
+    "misc.silents_mechanisms.upgradeSlot": "§7Upgrade Slot"
+}

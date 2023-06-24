@@ -1,0 +1,31 @@
+{
+	"container.silents_mechanisms.alloy_smelter": "§7Huta stopu",
+    "container.silents_mechanisms.battery_box": "§7Skrzynka Akumulatorowa",
+    "container.silents_mechanisms.coal_generator": "§7Generator Węglowy",
+    "container.silents_mechanisms.compressor": "§7Kompresor",
+    "container.silents_mechanisms.crusher": "§7Rozdrabiarka",
+	"container.silents_mechanisms.diesel_generator": "§7Generator Diesla",
+    "container.silents_mechanisms.electric_furnace": "§7Piec elektryczny",
+    "container.silents_mechanisms.lava_generator": "§7Generator lavy",
+	"container.silents_mechanisms.mixer": "§7Mieszacz",
+    "container.silents_mechanisms.pump": "§7Pompa",
+    "container.silents_mechanisms.refinery": "§7Rafineria",
+	"container.silents_mechanisms.solidifier": "§7Zestalacz",
+
+    "jei.silents_mechanisms.category.alloy_smelting": "§7Wytapianie stopów",
+    "jei.silents_mechanisms.category.compressing": "§7Kompresowanie",
+    "jei.silents_mechanisms.category.crushing": "§7Rozdrabnianie",
+    "jei.silents_mechanisms.category.drying": "§7Suszenie",
+	"jei.silents_mechanisms.category.mixing": "§7Mieszanie",
+	"jei.silents_mechanisms.category.refining": "§7Rafinacja",
+	"jei.silents_mechanisms.category.solidifying": "§7Zestalowywanie",
+
+    "misc.silents_mechanisms.empty": "§7Pusty",
+    "misc.silents_mechanisms.energy": "§7%s FE",
+	"misc.silents_mechanisms.energyPerTick": "§7%s FE/t",
+    "misc.silents_mechanisms.energyWithMax": "§7%s / %s FE",
+    "misc.silents_mechanisms.fluidWithMax": "§7%s: %s / %s mB",
+	"misc.silents_mechanisms.redstoneMode": "§7Tryb czerwonego proszku: %s",
+    "misc.silents_mechanisms.timeInSeconds": "§7Czas: %ss",
+	"misc.silents_mechanisms.upgradeSlot": "§7Slot na ulepszenia"
+}
