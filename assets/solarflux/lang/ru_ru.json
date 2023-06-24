@@ -1,0 +1,17 @@
+{
+  "itemGroup.solarflux": "§7Solar Flux [Reborn]",
+  
+  "info.solarflux.energy.stored1": "§7Хранится: %,d FE",
+  "info.solarflux.energy.generation": "§7Генерация: %,d FE/тик",
+  "info.solarflux.energy.capacity": "§7Ёмкость: %,d FE",
+  "info.solarflux.energy.efficiency": "§7Эффективность: %,d%%",
+  
+  "block.solarflux.sp_1": "§7Солнечная панель I",
+  "block.solarflux.sp_2": "§7Солнечная панель II",
+  "block.solarflux.sp_3": "§7Солнечная панель III",
+  "block.solarflux.sp_4": "§7Солнечная панель IV",
+  "block.solarflux.sp_5": "§7Солнечная панель V",
+  "block.solarflux.sp_6": "§7Солнечная панель VI",
+  "block.solarflux.sp_7": "§7Солнечная панель VII",
+  "block.solarflux.sp_8": "§7Солнечная панель VIII"
+}

@@ -1,0 +1,17 @@
+{
+  "itemGroup.solarflux": "§7Solar Flux [Reborn]",
+
+  "info.solarflux.energy.stored1": "§7Stored: %,d FE",
+  "info.solarflux.energy.generation": "§7Generation: %,d FE/tick",
+  "info.solarflux.energy.capacity": "§7Capacity: %,d FE",
+  "info.solarflux.energy.efficiency": "§7Efficiency: %,d%%",
+
+  "block.solarflux.sp_1": "§7Solar Panel I",
+  "block.solarflux.sp_2": "§7Solar Panel II",
+  "block.solarflux.sp_3": "§7Solar Panel III",
+  "block.solarflux.sp_4": "§7Solar Panel IV",
+  "block.solarflux.sp_5": "§7Solar Panel V",
+  "block.solarflux.sp_6": "§7Solar Panel VI",
+  "block.solarflux.sp_7": "§7Solar Panel VII",
+  "block.solarflux.sp_8": "§7Solar Panel VIII"
+}
