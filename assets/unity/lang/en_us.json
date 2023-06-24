@@ -13,6 +13,10 @@
   "itemGroup.inventory": "§7Survival Inventory",
   "itemGroup.hotbar": "§7Saved Toolbars",
 
+  "menu.online": "Realms",
+  "menu.options": "Options",
+  "menu.quit": "Quit",
+
   "container.inventory": "§7Inventory",
   "container.hopper": "§7Item Hopper",
   "container.crafting": "§7Crafting",
