@@ -1,0 +1,24 @@
+{
+  "block.silentgear.crafting_station": "§7合成站",
+  "block.silentgear.part_analyzer": "§7部件分析仪",
+  "block.silentgear.salvager": "§7手残拯救者",
+  
+  "gui.silentgear.crafting_station.crafting": "§7合成",
+  "gui.silentgear.crafting_station.storage": "§7存储",
+  "gui.silentgear.part_analyzer.catalystTier": "§7催化剂等级: %s",
+  
+  "jei.silentgear.blueprint.desc": "§7蓝图和模板用于制作工具头部和装甲.蓝图可以无限重复使用,模板是单次使用.在合成站中制作物品时, 你可以混合材料.否则,材料必须全部相同.有关制作最终物品的详细信息,请查看蓝图/模板的工具提示.",
+  "jei.silentgear.crafting_station.desc": "§7一种改进的合成台,有一个小型内部存储,一个显示正在制作物品工具提示的窗口.制作工具头部或装甲时可以进行材料混合.",
+  "jei.silentgear.dagger.desc": "§7基本上是一把很轻的剑.伤害低,范围短,但攻击速度非常快.它还会在命中目标时降低其无敌时间.",
+  "jei.silentgear.katana.desc": "§7稍微快一点的一把剑,但比经典剑略弱.砍刀也可以比标准剑范围更远一点.",
+  "jei.silentgear.machete.desc": "§7多功能刀片.它是一把剑,斧头和镰刀,但最适合用作一把剑.攻击速度稍慢,但比标准剑有更高的伤害.像镰刀一样,它可以清理一片区域的植物,但范围较小.",
+  "jei.silentgear.mattock.desc": "§7最终的农具,能够耕种和挖掘土壤和砍伐木材.比铲子或斧头慢一点,但更耐用.应该工作在任何需要锄头的地方.",
+  "jei.silentgear.part_analyzer.desc": "§7确定主要部件的质量.不需要能量或燃料.漏斗可以加入/提取物品. 有一个可选的\"催化剂\"槽,可以提高平均等级.",
+  "jei.silentgear.red_card_upgrade.desc": "§7红牌升级的工具和装甲可以像原版物品一样破坏,而不是成为一个仍然可以修复的\"损坏\" 物品.",
+  "jei.silentgear.spoon_upgrade.desc": "§7因为种种原因.让你的稿子能挖掘泥土等方块.",
+  "jei.silentgear.sword.desc": "§7经典的剑,具有平衡的伤害和速度.护手采用制作时第二种材料的外观.",
+  "jei.silentgear.tip_upgrade.desc": "§7允许进一步升级现有工具/武器.大多数镶嵌升级将会添加(或减去)一定数值到某些属性,但有些添加会改为乘数.按住Ctrl键可在工具提示中查看属性修改.",
+  "jei.silentgear.tool_head.desc": "§7工具头部,刀片,弓臂等等!这些是工具和武器的核心,使用蓝图/模板和一些数量的主要工具材料构成.查看蓝图/模板工具提示以获取更多信息.",
+  "jei.silentgear.tooltip.sample1": "§7样品配方",
+  "jei.silentgear.tooltip.sample2": "§7用任何材料制成的装备都可以使用"
+}
