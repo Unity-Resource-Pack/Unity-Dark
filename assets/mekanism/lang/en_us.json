@@ -1,0 +1,12 @@
+{
+    "constants.mekanism.mod_name": "§7Mekanism",
+    "miner.mekanism.reset": "§7Reset",
+    "button.mekanism.config": "§7Config",
+    "button.mekanism.start": "§7Start",
+    "button.mekanism.stop": "§7Stop",
+    "button.mekanism.itemstack_filter": "§7ItemStack",
+    "button.mekanism.tag_filter": "§7Tag",
+    "button.mekanism.material_filter": "§7Material",
+    "button.mekanism.modid_filter": "§7Mod ID",
+    "button.mekanism.new_filter": "§7New Filter"
+}
